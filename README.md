@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pabl0Azeved0
-- 👀 I’m interested in ... developing new systems to make the world better and faster (but no furious lmao)
+- 👀 I’m interested in ... developing new systems to make the world better and faster (but not furious lmao)
 - 🌱 I’m currently learning ... Golang
 - 💞️ I’m looking to collaborate on ... any open source project
 - 📫 How to reach me ... pabloazevedopro@gmail.com
